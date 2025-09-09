@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "markdown-brain": {
+      "command": "node",
+      "args": [
+        "/home/helye/Development/Projects/Work/MCPs/markdown-brain/dist/index.js",
+        "/home/helye/Development/Projects/Work/Nextjs/moshimoshi/docs"
+      ],
+      "env": {
+        "MARKDOWN_DOCS_PATH": "/home/helye/Development/Projects/Work/Nextjs/moshimoshi/docs"
+      }
+    }
+  }
+}
